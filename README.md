@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhgamaSundar
 - 👀 I’m interested in Tech stuff
 - 🌱 I’m currently learning DSA,Website develeopment,dev ops
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahgamasundar40@gmail.com
 - ⚡ Fun fact: IDK :(
 
