@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhgamaSundar
-- 👀 I’m interested in Malwares Analysis
+- 👀 I’m interested in Malware Analysis
 - 🌱 I’m currently learning CyberSecurity
 - 📫 How to reach me ahgamasundar40@gmail.com,https://ahgamasundar-personla-portfolio-00.streamlit.app/
 
